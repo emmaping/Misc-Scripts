@@ -9,4 +9,4 @@ DK_System\xKindle\res\dict\VocabularyNoteBook.dat
 
 使用时候把脚本放在VocabularyNoteBook.dat同目录中执行即可，生成csv文件的第一列是生词，第二列是释义，第三列是时间，忽略即可。另外用Excel打开是乱码，不用担心，不影响Anki导入后效果,用notepad++之类软件打开也是正常的。
 
-PS:遗憾的是，Kindle原生系统生词本会保留生词所在例句，多看系统只有生词和释义
+PS:遗憾的是，Kindle原生系统生词本会保留生词所在例句，多看系统只有生词和释义, 而且有些释义被截断了，原始文件就这样
