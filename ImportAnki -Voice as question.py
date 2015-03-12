@@ -39,7 +39,7 @@ def Main():
        if not english:
 	   answer =content[10:]
        else:
-	   answer = english[0]
+	   answer = english[0] + "   " + question
        writer.writerow([question, answer])
        fh.close()
     del writer
